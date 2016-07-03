@@ -15,7 +15,7 @@
 This module is for .....
 
 ![image001.png](en/assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the Biblioteca Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 

@@ -1,4 +1,4 @@
-# 6.0 Blocks
+# Blocks
 
 There are four blocks provided by the Bibliteca Module:
 
@@ -6,5 +6,4 @@ There are four blocks provided by the Bibliteca Module:
 * Most Popular Books
 * Highest Rated Books
 * Random Books
-
 

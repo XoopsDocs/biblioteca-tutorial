@@ -10,7 +10,7 @@
 
 ### User Manual
 
-© 2016 XOOPS Project \([www.xoops.org](http://xoops.org)\)
+© 2016 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -18,7 +18,7 @@ On-line Library for XOOPS
 
 ![Figure 1: Main view of the Biblioteca Module \(Admin side\)](.gitbook/assets/image001%20%281%29.png)
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/biblioteca)**\)**
 
@@ -46,5 +46,5 @@ Editing the book can be done either by updating the markdown files with a text e
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 

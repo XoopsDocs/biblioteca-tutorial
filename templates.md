@@ -1,7 +1,8 @@
-# 7.0 Templates
+# Templates
 
 There are several templates for this module:
-```
+
+```text
 /templates/biblioteca_viewcat.html
 /templates/biblioteca_brokenfile.html
 /templates/biblioteca_download.html
@@ -12,12 +13,13 @@ There are several templates for this module:
 /templates/biblioteca_singlefile.html
 /templates/biblioteca_submit.html
 ```
+
 There are also following templates for Blocks:
-```
+
+```text
 /templates/blocks/biblioteca_block_new.html
 /templates/blocks/biblioteca_block_random.html
 /templates/blocks/biblioteca_block_rating.html
 /templates/blocks/biblioteca_block_top.html
 ```
-
 
